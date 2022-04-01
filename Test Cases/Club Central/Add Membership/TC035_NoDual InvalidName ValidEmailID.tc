@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC035_NoDual InvalidName ValidEmailID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ab9c4a9c-5f7e-499e-b740-5618ccd33659</testCaseGuid>
+</TestCaseEntity>

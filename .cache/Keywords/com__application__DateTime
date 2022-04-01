@@ -1,0 +1,41 @@
+{
+  "keywordFileContentHash": "5B1141BAF2756C2CD5A4A82368E4FBF5",
+  "keywordClasses": [
+    {
+      "name": "com.application.DateTime",
+      "keywordMethods": [
+        {
+          "name": "startTime",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "endTime",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "totalTime",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "getCurrentTime",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "getExecStartTime",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "takeScreenshot",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC004_ValidationMessageForCreateUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a7c2bdf8-b1b0-429d-a052-13afaa451999</testCaseGuid>
+</TestCaseEntity>

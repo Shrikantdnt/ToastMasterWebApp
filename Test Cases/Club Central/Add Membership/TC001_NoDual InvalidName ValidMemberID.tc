@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_NoDual InvalidName ValidMemberID</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7a5db6f7-271b-49b5-82cd-5a5ef0c3ab7f</testCaseGuid>
+</TestCaseEntity>

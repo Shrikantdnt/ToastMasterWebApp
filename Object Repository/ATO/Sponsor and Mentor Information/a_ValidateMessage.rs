@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ValidateMessage</name>
+   <tag></tag>
+   <elementGuidId>68c901a8-8fa3-4c5e-8bf4-41ac9d81fe85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//*[@id=&quot;alertbox&quot;]/div/text())[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <type>Main</type>
+      <value>(//*[@id=&quot;alertbox&quot;]/div/text())[2]</value>
+   </webElementXpaths>
+</WebElementEntity>
